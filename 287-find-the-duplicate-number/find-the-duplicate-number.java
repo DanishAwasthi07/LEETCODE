@@ -7,7 +7,6 @@ class Solution {
               ans=nums[i];
               break;
             }
-            System.out.println(nums[i]);
         }
         return ans;
     }
